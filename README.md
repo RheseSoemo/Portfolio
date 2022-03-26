@@ -5,7 +5,7 @@ Inside this repository there are multiple .md files that each contain a differen
 
 If you wish to contact me, please do so through [LinkedIn](https://www.linkedin.com/in/rhese-soemo/)
 
-### Work Projects
+### Corperate Projects
 * [WordPress Websites](/WordPress%20Websites.md) - These projects were developed for clients while employed at Big Guy Digital as a website developer on the WordPress CMS.
 
 ### Academic Projects
