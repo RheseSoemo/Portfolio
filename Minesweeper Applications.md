@@ -69,7 +69,7 @@ After developing the main functions of the Minesweeper Library, I then worked to
   <i>Windows Form Version of the Minesweeper Game</i>
 </p>
 
-The implementation of the Minesweeper library into Windows Forms was interesting, as I needed to create a frontend button that was attached to the backend Minesweeper Cell Object being used to run the game.
+The implementation of the Minesweeper library into Windows Forms was interesting, as I needed to create a frontend button that was attached to the backend Minesweeper Cell Object being used to run the game. To mirror more effectively, I created an update board view method that was called every time the process of revealing a cell, revealing all bombs, or flagging a cell ended.
 ```csharp
 //====Creating=Board====//
 gameBoard = new Board(futureBoardSize, futureBoardDifficulty);  //Instantiating new board
@@ -78,7 +78,7 @@ gameBoard = new Board(futureBoardSize, futureBoardDifficulty);  //Instantiating 
 buttonGrid = new Button[futureBoardSize, futureBoardSize];  //Instantiating a new button grid
 ```
 <p align="center">
-  <i>Creating a Board Object and a Button Grid Object to Mirror it</i>
+  <i>Instantiating a Board Object and a Button Grid Object to Mirror It</i>
 </p>
 
 
