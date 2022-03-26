@@ -11,4 +11,4 @@ If you wish to contact me, please do so through [LinkedIn](https://www.linkedin.
 ### Academic Projects
 * [Minesweeper Applications](/Minesweeper%20Applications.md) - Designed and Built Minesweeper using C# on the .NET Framework using Object Oriented Principals
 
-### Personal Projects
+<!--### Personal Projects-->
