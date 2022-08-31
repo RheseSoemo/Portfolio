@@ -1,4 +1,4 @@
-# Social Media Blog
+## Social Media Blog
 
 As part of my CST-126 Database Application Programming 1, I worked with a group of members to create a social media blogging website, called BragBook. This group project presented many unique challenges. 
 
