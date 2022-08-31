@@ -13,4 +13,4 @@ If you wish to contact me, please do so through [LinkedIn](https://www.linkedin.
 * [Minesweeper Applications](/Minesweeper%20Applications.md) - Designed and Built Minesweeper using C# on the .NET Framework using Object Oriented Principals
 
 ### Personal Projects
-* [Null Core](/Null%20Core.md.md) - Created a library framework to quicken development of Minecraft Spigot mods
+* [Null Core](/Null%20Core.md) - Created a library framework to quicken development of Minecraft Spigot mods
