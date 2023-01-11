@@ -12,9 +12,8 @@ I have worked on various projects as part of my technology career. For projects 
 ## Academic Projects
 From 2020 to 2023 I earned my Bachelors of Science in Software Development at Grand Canyon University, or GCU. GCU's technology programs focuses on teaching in practical implementations. Their software development degree is no exception. In almost every class, I built a programming project from the ground up using the technology stack I was learning in the course. Consequently, I have added as many of my class projects as I can to the portfolio. I also participated in extracurricular technology activities, primarily in GCU's Research Design Program, also known as RDP.
 
-*Please Note: According to GCU's Technology College's Academic Policy, I am not allowed to publicly post repositories of my class work in order to prevent cheating. Consequently, for programs and applications developed in the classroom, I can only show small code snippets and images of the final project.*
-
 ### Class Projects
+*Please note that according to GCU's Technology College's Academic Policy, I am not allowed to publicly post repositories of my class work in order to prevent cheating. Consequently, for programs and applications developed in GCU classrooms, I can only show small code snippets and images of the final project.*
 * [Social Media Blog](/Social%20Media%20Blog.md) - Led a team in creating a social media blogging website utilizing PHP, JavaScript, MySQL, and Azure
 * [Minesweeper Applications](/Minesweeper%20Applications.md) - Designed and Built Minesweeper using C# on the .NET Framework using Object Oriented Principals
 
