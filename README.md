@@ -12,6 +12,8 @@ I have worked on various projects as part of my technology career. For projects 
 ## Academic Projects
 From 2020 to 2023 I earned my Bachelors of Science in Software Development at Grand Canyon University, or GCU. GCU's technology programs focuses on teaching in practical implementations. Their software development degree is no exception. In almost every class, I built a programming project from the ground up using the technology stack I was learning in the course. Consequently, I have added as many of my class projects as I can to the portfolio. I also participated in extracurricular technology activities, primarily in GCU's Research Design Program, also known as RDP.
 
+* [Senior Capstone Project](/IndividualEntries/Academic/GrandCanyonUniversity/SeniorCapstoneProject.md) - Built a GUI driven application on C#, .NET, and Avalonia UI to solve a problem that I found in the small business sector.
+
 ### Research and Development Projects
 * [AI-Enabled Medical Software](/IndividualEntries/Academic/RDP/AIMedicalSoftware.md) - Joined a team, led by Dr. Isac Artzi in building AI-Enabled Medical Software in Python
 
