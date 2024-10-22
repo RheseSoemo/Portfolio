@@ -1,3 +1,7 @@
+:warning: **This is an archived version of my portfolio:** *Information is out of date and will not be updated* :warning:
+
+Visit [rhese.gitbook.io/portfolio](https://rhese.gitbook.io/portfolio) for my latest portfolio
+
 # Welcome to Rhese Soemo's Portfolio
 This repository holds a portfolio of coding snippets and screenshots of programming projects that I have worked on as a software developer.
 
